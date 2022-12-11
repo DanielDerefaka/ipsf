@@ -1,0 +1,20 @@
+{
+  "description": "This Nft proves that i've developed an ERC721 Smart Contract on Goerli", 
+  "external_url": "https://twitter.com/danieldere_dx", 
+  "image": "https://raw.githubusercontent.com/DanielDerefaka/ipsf/main/nft.png", 
+  "name": "ERC721 Dx",
+  "attributes": [ {
+      "trait_type": "Dev", 
+      "value": "Building Creativity"
+    }, 
+    {
+      "trait_type": "Social Link ", 
+      "value": "https://twitter.com/danieldere_dx"
+    }, 
+    {
+      "trait_type": "Token Standard", 
+      "value": "ERC721"
+    }
+]
+}
+
